@@ -100,6 +100,7 @@ html, body{
 .heading p{
 	font-size: 18px;
 	padding: 20px 0px;
+  margin-bottom: 20px;
 }
 
 .heading h3{
@@ -216,43 +217,43 @@ html, body{
 .section.wb {
     background: url(images/client1/GD_02.png);
     background-size: auto auto;
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
     background-color: #d9ccc4;
 }
 .bg-client1-main{
     background: url(images/client1/GD_01.png);
     background-size: auto auto; 
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
     background-color: #d9ccc4;
 }
 .section.wg {
     background: url(images/client1/GD_07.png);
     background-size: auto auto;
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
     background-color: #d9ccc4;
 }
 .section.cw {
     background: url(images/client1/GD_08.png);
     background-size: auto auto;
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
     /* background-color: #c49979; */
 }
 .section.ls {
     background: url(images/client1/GD_03.png);
     background-size: auto auto;
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
     background-color: #c4aea1;
 }
 .vd {
   background: url(images/client1/GD_05.png);
     background-size: auto auto;
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
     background-color: #c4aea1;
 }
 .section.rp {
   background: url(images/bg.jpg);
   background-size: auto auto;
-  background-repeat: no-repeat;
+  /* background-repeat: no-repeat; */
   background-color: #33302e2e;
 }
 .section.lstr {
@@ -262,7 +263,7 @@ html, body{
 .brown-vid {
     background: url(images/client1/GD_05.png);
     background-size: auto auto;
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
     background-color: #c4aea1;
   }
 
@@ -631,7 +632,7 @@ z-index: 1;
 
 .heading p{
   color: #694a2e;
-  line-height: 1.9em;
+  line-height: 2.3em;
   font-size: 27px;
 }
 
