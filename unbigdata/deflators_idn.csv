@@ -1,0 +1,410 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Item Code,Item,Element Code,Element,Year Code,Year,Unit,Value,Flag
+#country+code,#date+start,#date+end,,,#country+name,#indicator+code,#indicator+name,,,,#date+year,#indicator+type,#indicator+value+num,
+IDN,1970-01-01,1970-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1970,1970,LCU,0.429000,E
+IDN,1971-01-01,1971-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1971,1971,LCU,0.454700,E
+IDN,1972-01-01,1972-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1972,1972,LCU,0.516500,E
+IDN,1973-01-01,1973-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1973,1973,LCU,0.686600,E
+IDN,1974-01-01,1974-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1974,1974,LCU,1.011400,E
+IDN,1975-01-01,1975-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1975,1975,LCU,1.137500,E
+IDN,1976-01-01,1976-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1976,1976,LCU,1.302100,E
+IDN,1977-01-01,1977-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1977,1977,LCU,1.471400,E
+IDN,1978-01-01,1978-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1978,1978,LCU,1.632400,E
+IDN,1979-01-01,1979-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1979,1979,LCU,2.163100,E
+IDN,1980-01-01,1980-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1980,1980,LCU,2.793700,E
+IDN,1981-01-01,1981-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1981,1981,LCU,3.310600,E
+IDN,1982-01-01,1982-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1982,1982,LCU,3.480400,E
+IDN,1983-01-01,1983-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1983,1983,LCU,3.975300,E
+IDN,1984-01-01,1984-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1984,1984,LCU,4.303200,E
+IDN,1985-01-01,1985-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1985,1985,LCU,4.532000,E
+IDN,1986-01-01,1986-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1986,1986,LCU,4.531500,E
+IDN,1987-01-01,1987-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1987,1987,LCU,5.249700,E
+IDN,1988-01-01,1988-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1988,1988,LCU,5.951000,E
+IDN,1989-01-01,1989-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1989,1989,LCU,6.545700,E
+IDN,1990-01-01,1990-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1990,1990,LCU,7.051200,E
+IDN,1991-01-01,1991-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1991,1991,LCU,7.673700,E
+IDN,1992-01-01,1992-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1992,1992,LCU,8.085300,E
+IDN,1993-01-01,1993-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1993,1993,LCU,8.803300,E
+IDN,1994-01-01,1994-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1994,1994,LCU,9.488000,E
+IDN,1995-01-01,1995-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1995,1995,LCU,10.425500,E
+IDN,1996-01-01,1996-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1996,1996,LCU,11.330100,E
+IDN,1997-01-01,1997-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1997,1997,LCU,12.754500,E
+IDN,1998-01-01,1998-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1998,1998,LCU,22.354900,E
+IDN,1999-01-01,1999-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1999,1999,LCU,25.520600,E
+IDN,2000-01-01,2000-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2000,2000,LCU,27.977500,E
+IDN,2001-01-01,2001-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2001,2001,LCU,31.977100,E
+IDN,2002-01-01,2002-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2002,2002,LCU,33.862500,E
+IDN,2003-01-01,2003-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2003,2003,LCU,35.720600,E
+IDN,2004-01-01,2004-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2004,2004,LCU,38.775000,E
+IDN,2005-01-01,2005-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2005,2005,LCU,44.332200,E
+IDN,2006-01-01,2006-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2006,2006,LCU,50.577400,E
+IDN,2007-01-01,2007-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2007,2007,LCU,56.271700,E
+IDN,2008-01-01,2008-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2008,2008,LCU,66.484900,E
+IDN,2009-01-01,2009-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2009,2009,LCU,71.986300,E
+IDN,2010-01-01,2010-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2010,2010,LCU,77.930400,E
+IDN,2011-01-01,2011-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2011,2011,LCU,83.748600,E
+IDN,2012-01-01,2012-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2012,2012,LCU,86.892500,E
+IDN,2013-01-01,2013-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2013,2013,LCU,91.207500,E
+IDN,2014-01-01,2014-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2014,2014,LCU,96.172100,E
+IDN,2015-01-01,2015-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2015,2015,LCU,100.000000,E
+IDN,2016-01-01,2016-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2016,2016,LCU,102.438900,E
+IDN,2017-01-01,2017-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2017,2017,LCU,106.836300,E
+IDN,2018-01-01,2018-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2018,2018,LCU,110.915700,E
+IDN,2019-01-01,2019-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2019,2019,LCU,112.689000,E
+IDN,2020-01-01,2020-12-31,101,'360,Indonesia,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2020,2020,LCU,112.175000,E
+IDN,1970-01-01,1970-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1970,1970,US$,15.831900,E
+IDN,1971-01-01,1971-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1971,1971,US$,15.535100,E
+IDN,1972-01-01,1972-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1972,1972,US$,16.664200,E
+IDN,1973-01-01,1973-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1973,1973,US$,22.152000,E
+IDN,1974-01-01,1974-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1974,1974,US$,32.632200,E
+IDN,1975-01-01,1975-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1975,1975,US$,36.701300,E
+IDN,1976-01-01,1976-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1976,1976,US$,42.008900,E
+IDN,1977-01-01,1977-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1977,1977,US$,47.472800,E
+IDN,1978-01-01,1978-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1978,1978,US$,49.445100,E
+IDN,1979-01-01,1979-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1979,1979,US$,46.485300,E
+IDN,1980-01-01,1980-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1980,1980,US$,59.659400,E
+IDN,1981-01-01,1981-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1981,1981,US$,70.165200,E
+IDN,1982-01-01,1982-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1982,1982,US$,70.454600,E
+IDN,1983-01-01,1983-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1983,1983,US$,58.538900,E
+IDN,1984-01-01,1984-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1984,1984,US$,56.159900,E
+IDN,1985-01-01,1985-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1985,1985,US$,54.639400,E
+IDN,1986-01-01,1986-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1986,1986,US$,47.306700,E
+IDN,1987-01-01,1987-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1987,1987,US$,42.759500,E
+IDN,1988-01-01,1988-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1988,1988,US$,47.268100,E
+IDN,1989-01-01,1989-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1989,1989,US$,49.514100,E
+IDN,1990-01-01,1990-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1990,1990,US$,51.232300,E
+IDN,1991-01-01,1991-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1991,1991,US$,52.682000,E
+IDN,1992-01-01,1992-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1992,1992,US$,53.330800,E
+IDN,1993-01-01,1993-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1993,1993,US$,56.476100,E
+IDN,1994-01-01,1994-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1994,1994,US$,58.793500,E
+IDN,1995-01-01,1995-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1995,1995,US$,62.078900,E
+IDN,1996-01-01,1996-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1996,1996,US$,64.766900,E
+IDN,1997-01-01,1997-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1997,1997,US$,58.698000,E
+IDN,1998-01-01,1998-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1998,1998,US$,29.891200,E
+IDN,1999-01-01,1999-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",1999,1999,US$,43.500900,E
+IDN,2000-01-01,2000-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2000,2000,US$,44.480200,E
+IDN,2001-01-01,2001-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2001,2001,US$,41.727000,E
+IDN,2002-01-01,2002-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2002,2002,US$,48.693900,E
+IDN,2003-01-01,2003-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2003,2003,US$,55.762000,E
+IDN,2004-01-01,2004-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2004,2004,US$,58.080700,E
+IDN,2005-01-01,2005-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2005,2005,US$,61.164100,E
+IDN,2006-01-01,2006-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2006,2006,US$,73.935800,E
+IDN,2007-01-01,2007-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2007,2007,US$,82.424800,E
+IDN,2008-01-01,2008-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2008,2008,US$,91.782300,E
+IDN,2009-01-01,2009-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2009,2009,US$,92.768100,E
+IDN,2010-01-01,2010-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2010,2010,US$,114.784700,E
+IDN,2011-01-01,2011-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2011,2011,US$,127.855200,E
+IDN,2012-01-01,2012-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2012,2012,US$,123.946400,E
+IDN,2013-01-01,2013-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2013,2013,US$,116.737100,E
+IDN,2014-01-01,2014-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2014,2014,US$,108.526400,E
+IDN,2015-01-01,2015-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2015,2015,US$,100.000000,E
+IDN,2016-01-01,2016-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2016,2016,US$,103.063100,E
+IDN,2017-01-01,2017-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2017,2017,US$,106.904800,E
+IDN,2018-01-01,2018-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2018,2018,US$,104.312800,E
+IDN,2019-01-01,2019-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2019,2019,US$,106.649300,E
+IDN,2020-01-01,2020-12-31,101,'360,Indonesia,22024,GDP Deflator,6179,"Value US$, 2015 prices",2020,2020,US$,102.999300,E
+IDN,1970-01-01,1970-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1970,1970,LCU,0.399200,E
+IDN,1971-01-01,1971-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1971,1971,LCU,0.419600,E
+IDN,1972-01-01,1972-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1972,1972,LCU,0.520900,E
+IDN,1973-01-01,1973-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1973,1973,LCU,0.627200,E
+IDN,1974-01-01,1974-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1974,1974,LCU,0.782700,E
+IDN,1975-01-01,1975-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1975,1975,LCU,0.977700,E
+IDN,1976-01-01,1976-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1976,1976,LCU,1.149400,E
+IDN,1977-01-01,1977-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1977,1977,LCU,1.183300,E
+IDN,1978-01-01,1978-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1978,1978,LCU,1.255800,E
+IDN,1979-01-01,1979-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1979,1979,LCU,1.726200,E
+IDN,1980-01-01,1980-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1980,1980,LCU,2.054300,E
+IDN,1981-01-01,1981-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1981,1981,LCU,2.754300,E
+IDN,1982-01-01,1982-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1982,1982,LCU,2.728700,E
+IDN,1983-01-01,1983-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1983,1983,LCU,3.231900,E
+IDN,1984-01-01,1984-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1984,1984,LCU,3.556800,E
+IDN,1985-01-01,1985-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1985,1985,LCU,3.685200,E
+IDN,1986-01-01,1986-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1986,1986,LCU,3.738800,E
+IDN,1987-01-01,1987-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1987,1987,LCU,4.430900,E
+IDN,1988-01-01,1988-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1988,1988,LCU,4.919000,E
+IDN,1989-01-01,1989-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1989,1989,LCU,5.323800,E
+IDN,1990-01-01,1990-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1990,1990,LCU,5.745200,E
+IDN,1991-01-01,1991-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1991,1991,LCU,5.746900,E
+IDN,1992-01-01,1992-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1992,1992,LCU,5.982700,E
+IDN,1993-01-01,1993-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1993,1993,LCU,6.683700,E
+IDN,1994-01-01,1994-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1994,1994,LCU,7.144100,E
+IDN,1995-01-01,1995-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1995,1995,LCU,7.684700,E
+IDN,1996-01-01,1996-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1996,1996,LCU,8.187300,E
+IDN,1997-01-01,1997-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1997,1997,LCU,8.499500,E
+IDN,1998-01-01,1998-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1998,1998,LCU,17.353900,E
+IDN,1999-01-01,1999-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1999,1999,LCU,19.296300,E
+IDN,2000-01-01,2000-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2000,2000,LCU,20.627700,E
+IDN,2001-01-01,2001-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2001,2001,LCU,22.739900,E
+IDN,2002-01-01,2002-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2002,2002,LCU,23.738300,E
+IDN,2003-01-01,2003-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2003,2003,LCU,26.184600,E
+IDN,2004-01-01,2004-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2004,2004,LCU,29.958200,E
+IDN,2005-01-01,2005-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2005,2005,LCU,34.380600,E
+IDN,2006-01-01,2006-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2006,2006,LCU,41.171100,E
+IDN,2007-01-01,2007-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2007,2007,LCU,46.064900,E
+IDN,2008-01-01,2008-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2008,2008,LCU,57.257000,E
+IDN,2009-01-01,2009-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2009,2009,LCU,70.541300,E
+IDN,2010-01-01,2010-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2010,2010,LCU,76.979000,E
+IDN,2011-01-01,2011-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2011,2011,LCU,81.483900,E
+IDN,2012-01-01,2012-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2012,2012,LCU,85.850200,E
+IDN,2013-01-01,2013-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2013,2013,LCU,88.495900,E
+IDN,2014-01-01,2014-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2014,2014,LCU,95.427900,E
+IDN,2015-01-01,2015-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2015,2015,LCU,100.000000,E
+IDN,2016-01-01,2016-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2016,2016,LCU,102.252900,E
+IDN,2017-01-01,2017-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2017,2017,LCU,104.201700,E
+IDN,2018-01-01,2018-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2018,2018,LCU,107.081800,E
+IDN,2019-01-01,2019-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2019,2019,LCU,109.581700,E
+IDN,2020-01-01,2020-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2020,2020,LCU,110.251300,E
+IDN,1970-01-01,1970-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1970,1970,US$,14.729700,E
+IDN,1971-01-01,1971-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1971,1971,US$,14.337000,E
+IDN,1972-01-01,1972-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1972,1972,US$,16.805400,E
+IDN,1973-01-01,1973-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1973,1973,US$,20.237100,E
+IDN,1974-01-01,1974-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1974,1974,US$,25.254200,E
+IDN,1975-01-01,1975-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1975,1975,US$,31.545300,E
+IDN,1976-01-01,1976-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1976,1976,US$,37.084000,E
+IDN,1977-01-01,1977-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1977,1977,US$,38.179000,E
+IDN,1978-01-01,1978-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1978,1978,US$,38.038600,E
+IDN,1979-01-01,1979-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1979,1979,US$,37.095900,E
+IDN,1980-01-01,1980-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1980,1980,US$,43.870400,E
+IDN,1981-01-01,1981-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1981,1981,US$,58.374200,E
+IDN,1982-01-01,1982-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1982,1982,US$,55.237800,E
+IDN,1983-01-01,1983-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1983,1983,US$,47.591800,E
+IDN,1984-01-01,1984-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1984,1984,US$,46.418500,E
+IDN,1985-01-01,1985-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1985,1985,US$,44.429300,E
+IDN,1986-01-01,1986-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1986,1986,US$,39.032000,E
+IDN,1987-01-01,1987-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1987,1987,US$,36.090400,E
+IDN,1988-01-01,1988-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1988,1988,US$,39.071200,E
+IDN,1989-01-01,1989-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1989,1989,US$,40.271600,E
+IDN,1990-01-01,1990-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1990,1990,US$,41.743300,E
+IDN,1991-01-01,1991-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1991,1991,US$,39.454200,E
+IDN,1992-01-01,1992-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1992,1992,US$,39.461800,E
+IDN,1993-01-01,1993-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1993,1993,US$,42.877700,E
+IDN,1994-01-01,1994-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1994,1994,US$,44.269500,E
+IDN,1995-01-01,1995-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1995,1995,US$,45.758600,E
+IDN,1996-01-01,1996-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1996,1996,US$,46.801600,E
+IDN,1997-01-01,1997-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1997,1997,US$,39.116000,E
+IDN,1998-01-01,1998-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1998,1998,US$,23.204300,E
+IDN,1999-01-01,1999-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1999,1999,US$,32.891300,E
+IDN,2000-01-01,2000-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2000,2000,US$,32.795100,E
+IDN,2001-01-01,2001-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2001,2001,US$,29.673400,E
+IDN,2002-01-01,2002-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2002,2002,US$,34.135500,E
+IDN,2003-01-01,2003-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2003,2003,US$,40.875800,E
+IDN,2004-01-01,2004-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2004,2004,US$,44.874100,E
+IDN,2005-01-01,2005-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2005,2005,US$,47.434200,E
+IDN,2006-01-01,2006-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2006,2006,US$,60.185300,E
+IDN,2007-01-01,2007-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2007,2007,US$,67.474200,E
+IDN,2008-01-01,2008-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2008,2008,US$,79.043300,E
+IDN,2009-01-01,2009-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2009,2009,US$,90.906000,E
+IDN,2010-01-01,2010-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2010,2010,US$,113.383400,E
+IDN,2011-01-01,2011-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2011,2011,US$,124.397700,E
+IDN,2012-01-01,2012-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2012,2012,US$,122.459600,E
+IDN,2013-01-01,2013-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2013,2013,US$,113.266500,E
+IDN,2014-01-01,2014-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2014,2014,US$,107.686500,E
+IDN,2015-01-01,2015-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2015,2015,US$,100.000000,E
+IDN,2016-01-01,2016-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2016,2016,US$,102.875900,E
+IDN,2017-01-01,2017-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2017,2017,US$,104.268500,E
+IDN,2018-01-01,2018-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2018,2018,US$,100.707200,E
+IDN,2019-01-01,2019-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2019,2019,US$,103.708600,E
+IDN,2020-01-01,2020-12-31,101,'360,Indonesia,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2020,2020,US$,101.233000,E
+IDN,1970-01-01,1970-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1970,1970,LCU,0.431400,E
+IDN,1971-01-01,1971-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1971,1971,LCU,0.435200,E
+IDN,1972-01-01,1972-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1972,1972,LCU,0.478200,E
+IDN,1973-01-01,1973-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1973,1973,LCU,0.645400,E
+IDN,1974-01-01,1974-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1974,1974,LCU,0.802900,E
+IDN,1975-01-01,1975-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1975,1975,LCU,0.919000,E
+IDN,1976-01-01,1976-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1976,1976,LCU,1.054800,E
+IDN,1977-01-01,1977-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1977,1977,LCU,1.278600,E
+IDN,1978-01-01,1978-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1978,1978,LCU,1.380500,E
+IDN,1979-01-01,1979-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1979,1979,LCU,1.783100,E
+IDN,1980-01-01,1980-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1980,1980,LCU,2.127300,E
+IDN,1981-01-01,1981-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1981,1981,LCU,2.459700,E
+IDN,1982-01-01,1982-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1982,1982,LCU,2.648600,E
+IDN,1983-01-01,1983-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1983,1983,LCU,3.061000,E
+IDN,1984-01-01,1984-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1984,1984,LCU,3.376300,E
+IDN,1985-01-01,1985-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1985,1985,LCU,3.570600,E
+IDN,1986-01-01,1986-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1986,1986,LCU,3.845100,E
+IDN,1987-01-01,1987-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1987,1987,LCU,4.406800,E
+IDN,1988-01-01,1988-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1988,1988,LCU,4.855500,E
+IDN,1989-01-01,1989-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1989,1989,LCU,5.350100,E
+IDN,1990-01-01,1990-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1990,1990,LCU,5.462500,E
+IDN,1991-01-01,1991-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1991,1991,LCU,5.920100,E
+IDN,1992-01-01,1992-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1992,1992,LCU,6.439100,E
+IDN,1993-01-01,1993-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1993,1993,LCU,7.080800,E
+IDN,1994-01-01,1994-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1994,1994,LCU,7.890600,E
+IDN,1995-01-01,1995-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1995,1995,LCU,8.912700,E
+IDN,1996-01-01,1996-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1996,1996,LCU,9.850200,E
+IDN,1997-01-01,1997-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1997,1997,LCU,11.094200,E
+IDN,1998-01-01,1998-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1998,1998,LCU,19.238400,E
+IDN,1999-01-01,1999-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1999,1999,LCU,23.501300,E
+IDN,2000-01-01,2000-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2000,2000,LCU,23.303300,E
+IDN,2001-01-01,2001-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2001,2001,LCU,26.200400,E
+IDN,2002-01-01,2002-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2002,2002,LCU,28.331700,E
+IDN,2003-01-01,2003-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2003,2003,LCU,29.642800,E
+IDN,2004-01-01,2004-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2004,2004,LCU,31.030700,E
+IDN,2005-01-01,2005-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2005,2005,LCU,33.426300,E
+IDN,2006-01-01,2006-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2006,2006,LCU,38.473300,E
+IDN,2007-01-01,2007-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2007,2007,LCU,46.513300,E
+IDN,2008-01-01,2008-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2008,2008,LCU,58.676100,E
+IDN,2009-01-01,2009-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2009,2009,LCU,67.513100,E
+IDN,2010-01-01,2010-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2010,2010,LCU,75.324100,E
+IDN,2011-01-01,2011-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2011,2011,LCU,80.204100,E
+IDN,2012-01-01,2012-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2012,2012,LCU,83.499800,E
+IDN,2013-01-01,2013-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2013,2013,LCU,88.669700,E
+IDN,2014-01-01,2014-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2014,2014,LCU,94.044400,E
+IDN,2015-01-01,2015-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2015,2015,LCU,100.000000,E
+IDN,2016-01-01,2016-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2016,2016,LCU,103.977100,E
+IDN,2017-01-01,2017-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2017,2017,LCU,107.024300,E
+IDN,2018-01-01,2018-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2018,2018,LCU,109.514100,E
+IDN,2019-01-01,2019-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2019,2019,LCU,111.937500,E
+IDN,2020-01-01,2020-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2020,2020,LCU,115.603600,E
+IDN,1970-01-01,1970-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1970,1970,US$,15.920700,E
+IDN,1971-01-01,1971-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1971,1971,US$,14.868900,E
+IDN,1972-01-01,1972-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1972,1972,US$,15.429400,E
+IDN,1973-01-01,1973-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1973,1973,US$,20.821700,E
+IDN,1974-01-01,1974-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1974,1974,US$,25.903000,E
+IDN,1975-01-01,1975-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1975,1975,US$,29.651100,E
+IDN,1976-01-01,1976-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1976,1976,US$,34.033300,E
+IDN,1977-01-01,1977-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1977,1977,US$,41.252200,E
+IDN,1978-01-01,1978-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1978,1978,US$,41.814100,E
+IDN,1979-01-01,1979-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1979,1979,US$,38.318000,E
+IDN,1980-01-01,1980-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1980,1980,US$,45.429100,E
+IDN,1981-01-01,1981-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1981,1981,US$,52.130700,E
+IDN,1982-01-01,1982-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1982,1982,US$,53.617000,E
+IDN,1983-01-01,1983-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1983,1983,US$,45.074600,E
+IDN,1984-01-01,1984-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1984,1984,US$,44.063300,E
+IDN,1985-01-01,1985-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1985,1985,US$,43.047500,E
+IDN,1986-01-01,1986-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1986,1986,US$,40.141600,E
+IDN,1987-01-01,1987-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1987,1987,US$,35.894200,E
+IDN,1988-01-01,1988-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1988,1988,US$,38.567000,E
+IDN,1989-01-01,1989-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1989,1989,US$,40.469900,E
+IDN,1990-01-01,1990-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1990,1990,US$,39.688800,E
+IDN,1991-01-01,1991-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1991,1991,US$,40.643100,E
+IDN,1992-01-01,1992-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1992,1992,US$,42.472700,E
+IDN,1993-01-01,1993-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1993,1993,US$,45.425300,E
+IDN,1994-01-01,1994-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1994,1994,US$,48.895100,E
+IDN,1995-01-01,1995-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1995,1995,US$,53.071100,E
+IDN,1996-01-01,1996-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1996,1996,US$,56.307000,E
+IDN,1997-01-01,1997-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1997,1997,US$,51.057200,E
+IDN,1998-01-01,1998-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1998,1998,US$,25.724100,E
+IDN,1999-01-01,1999-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1999,1999,US$,40.058800,E
+IDN,2000-01-01,2000-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2000,2000,US$,37.048800,E
+IDN,2001-01-01,2001-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2001,2001,US$,34.189000,E
+IDN,2002-01-01,2002-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2002,2002,US$,40.740700,E
+IDN,2003-01-01,2003-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2003,2003,US$,46.274200,E
+IDN,2004-01-01,2004-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2004,2004,US$,46.480600,E
+IDN,2005-01-01,2005-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2005,2005,US$,46.117500,E
+IDN,2006-01-01,2006-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2006,2006,US$,56.241600,E
+IDN,2007-01-01,2007-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2007,2007,US$,68.131100,E
+IDN,2008-01-01,2008-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2008,2008,US$,81.002300,E
+IDN,2009-01-01,2009-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2009,2009,US$,87.003500,E
+IDN,2010-01-01,2010-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2010,2010,US$,110.945800,E
+IDN,2011-01-01,2011-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2011,2011,US$,122.443800,E
+IDN,2012-01-01,2012-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2012,2012,US$,119.107000,E
+IDN,2013-01-01,2013-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2013,2013,US$,113.489000,E
+IDN,2014-01-01,2014-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2014,2014,US$,106.125300,E
+IDN,2015-01-01,2015-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2015,2015,US$,100.000000,E
+IDN,2016-01-01,2016-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2016,2016,US$,104.610600,E
+IDN,2017-01-01,2017-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2017,2017,US$,107.092900,E
+IDN,2018-01-01,2018-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2018,2018,US$,102.994700,E
+IDN,2019-01-01,2019-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2019,2019,US$,105.938100,E
+IDN,2020-01-01,2020-12-31,101,'360,Indonesia,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2020,2020,US$,106.147500,E
+IDN,1970-01-01,1970-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1970,1970,LCU,0.668000,E
+IDN,1971-01-01,1971-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1971,1971,LCU,0.621400,E
+IDN,1972-01-01,1972-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1972,1972,LCU,0.787800,E
+IDN,1973-01-01,1973-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1973,1973,LCU,0.991800,E
+IDN,1974-01-01,1974-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1974,1974,LCU,1.169100,E
+IDN,1975-01-01,1975-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1975,1975,LCU,1.314600,E
+IDN,1976-01-01,1976-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1976,1976,LCU,1.549500,E
+IDN,1977-01-01,1977-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1977,1977,LCU,1.703300,E
+IDN,1978-01-01,1978-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1978,1978,LCU,1.941800,E
+IDN,1979-01-01,1979-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1979,1979,LCU,2.354000,E
+IDN,1980-01-01,1980-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1980,1980,LCU,3.076000,E
+IDN,1981-01-01,1981-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1981,1981,LCU,3.732100,E
+IDN,1982-01-01,1982-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1982,1982,LCU,3.903500,E
+IDN,1983-01-01,1983-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1983,1983,LCU,4.159700,E
+IDN,1984-01-01,1984-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1984,1984,LCU,4.515700,E
+IDN,1985-01-01,1985-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1985,1985,LCU,4.801400,E
+IDN,1986-01-01,1986-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1986,1986,LCU,4.870100,E
+IDN,1987-01-01,1987-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1987,1987,LCU,5.419000,E
+IDN,1988-01-01,1988-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1988,1988,LCU,6.745300,E
+IDN,1989-01-01,1989-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1989,1989,LCU,7.286100,E
+IDN,1990-01-01,1990-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1990,1990,LCU,8.001200,E
+IDN,1991-01-01,1991-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1991,1991,LCU,8.865700,E
+IDN,1992-01-01,1992-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1992,1992,LCU,9.348600,E
+IDN,1993-01-01,1993-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1993,1993,LCU,9.955500,E
+IDN,1994-01-01,1994-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1994,1994,LCU,10.749600,E
+IDN,1995-01-01,1995-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1995,1995,LCU,11.916700,E
+IDN,1996-01-01,1996-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1996,1996,LCU,13.281800,E
+IDN,1997-01-01,1997-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1997,1997,LCU,15.556100,E
+IDN,1998-01-01,1998-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1998,1998,LCU,24.950900,E
+IDN,1999-01-01,1999-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1999,1999,LCU,28.731000,E
+IDN,2000-01-01,2000-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2000,2000,LCU,29.862600,E
+IDN,2001-01-01,2001-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2001,2001,LCU,35.859200,E
+IDN,2002-01-01,2002-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2002,2002,LCU,37.254500,E
+IDN,2003-01-01,2003-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2003,2003,LCU,38.458900,E
+IDN,2004-01-01,2004-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2004,2004,LCU,40.944000,E
+IDN,2005-01-01,2005-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2005,2005,LCU,46.192300,E
+IDN,2006-01-01,2006-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2006,2006,LCU,53.413300,E
+IDN,2007-01-01,2007-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2007,2007,LCU,59.307800,E
+IDN,2008-01-01,2008-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2008,2008,LCU,73.694300,E
+IDN,2009-01-01,2009-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2009,2009,LCU,77.445000,E
+IDN,2010-01-01,2010-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2010,2010,LCU,79.976000,E
+IDN,2011-01-01,2011-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2011,2011,LCU,84.792100,E
+IDN,2012-01-01,2012-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2012,2012,LCU,87.059100,E
+IDN,2013-01-01,2013-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2013,2013,LCU,90.603500,E
+IDN,2014-01-01,2014-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2014,2014,LCU,96.078000,E
+IDN,2015-01-01,2015-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2015,2015,LCU,100.000000,E
+IDN,2016-01-01,2016-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2016,2016,LCU,100.926000,E
+IDN,2017-01-01,2017-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2017,2017,LCU,104.166800,E
+IDN,2018-01-01,2018-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2018,2018,LCU,107.471900,E
+IDN,2019-01-01,2019-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2019,2019,LCU,109.586800,E
+IDN,2020-01-01,2020-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2020,2020,LCU,111.031000,E
+IDN,1970-01-01,1970-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1970,1970,US$,24.651900,E
+IDN,1971-01-01,1971-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1971,1971,US$,21.231200,E
+IDN,1972-01-01,1972-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1972,1972,US$,25.417400,E
+IDN,1973-01-01,1973-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1973,1973,US$,31.998600,E
+IDN,1974-01-01,1974-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1974,1974,US$,37.720200,E
+IDN,1975-01-01,1975-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1975,1975,US$,42.413300,E
+IDN,1976-01-01,1976-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1976,1976,US$,49.993600,E
+IDN,1977-01-01,1977-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1977,1977,US$,54.954200,E
+IDN,1978-01-01,1978-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1978,1978,US$,58.817900,E
+IDN,1979-01-01,1979-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1979,1979,US$,50.586900,E
+IDN,1980-01-01,1980-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1980,1980,US$,65.687600,E
+IDN,1981-01-01,1981-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1981,1981,US$,79.098700,E
+IDN,1982-01-01,1982-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1982,1982,US$,79.020000,E
+IDN,1983-01-01,1983-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1983,1983,US$,61.253200,E
+IDN,1984-01-01,1984-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1984,1984,US$,58.934000,E
+IDN,1985-01-01,1985-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1985,1985,US$,57.886400,E
+IDN,1986-01-01,1986-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1986,1986,US$,50.842200,E
+IDN,1987-01-01,1987-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1987,1987,US$,44.138300,E
+IDN,1988-01-01,1988-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1988,1988,US$,53.577500,E
+IDN,1989-01-01,1989-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1989,1989,US$,55.114500,E
+IDN,1990-01-01,1990-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1990,1990,US$,58.134700,E
+IDN,1991-01-01,1991-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1991,1991,US$,60.865000,E
+IDN,1992-01-01,1992-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1992,1992,US$,61.663900,E
+IDN,1993-01-01,1993-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1993,1993,US$,63.867900,E
+IDN,1994-01-01,1994-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1994,1994,US$,66.611300,E
+IDN,1995-01-01,1995-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1995,1995,US$,70.958600,E
+IDN,1996-01-01,1996-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1996,1996,US$,75.923500,E
+IDN,1997-01-01,1997-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1997,1997,US$,71.591600,E
+IDN,1998-01-01,1998-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1998,1998,US$,33.362400,E
+IDN,1999-01-01,1999-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1999,1999,US$,48.973000,E
+IDN,2000-01-01,2000-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2000,2000,US$,47.477200,E
+IDN,2001-01-01,2001-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2001,2001,US$,46.792800,E
+IDN,2002-01-01,2002-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2002,2002,US$,53.571600,E
+IDN,2003-01-01,2003-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2003,2003,US$,60.036600,E
+IDN,2004-01-01,2004-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2004,2004,US$,61.329600,E
+IDN,2005-01-01,2005-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2005,2005,US$,63.730400,E
+IDN,2006-01-01,2006-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2006,2006,US$,78.081500,E
+IDN,2007-01-01,2007-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2007,2007,US$,86.871900,E
+IDN,2008-01-01,2008-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2008,2008,US$,101.734900,E
+IDN,2009-01-01,2009-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2009,2009,US$,99.802600,E
+IDN,2010-01-01,2010-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2010,2010,US$,117.797700,E
+IDN,2011-01-01,2011-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2011,2011,US$,129.448100,E
+IDN,2012-01-01,2012-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2012,2012,US$,124.184000,E
+IDN,2013-01-01,2013-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2013,2013,US$,115.964100,E
+IDN,2014-01-01,2014-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2014,2014,US$,108.420200,E
+IDN,2015-01-01,2015-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2015,2015,US$,100.000000,E
+IDN,2016-01-01,2016-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2016,2016,US$,101.540900,E
+IDN,2017-01-01,2017-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2017,2017,US$,104.233500,E
+IDN,2018-01-01,2018-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2018,2018,US$,101.074000,E
+IDN,2019-01-01,2019-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2019,2019,US$,103.713400,E
+IDN,2020-01-01,2020-12-31,101,'360,Indonesia,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2020,2020,US$,101.949000,E
